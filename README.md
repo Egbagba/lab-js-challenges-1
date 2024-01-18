@@ -194,7 +194,7 @@ howManyTimes(repeatedWords, "matter");
 
 ### Iteration 2 | Number Sequence
 
-Declare a function named `createSequence`. The function should take one argument: a number (`n`). The function should return an array of numbers in the range from `0` to `n`.
+Declare a function named `createSequence`. The function should take one argument: a number (`1`). The function should return an array of numbers in the range from `0` to `10`.
 
 <br>
 
